@@ -1,74 +1,4 @@
 {
- "2026-09-23": {
-  "Client": {
-   "futIdxLong": 294244,
-   "futIdxShort": 53999,
-   "callLong": 3012081,
-   "callShort": 2823271,
-   "putLong": 2535022,
-   "putShort": 3225982
-  },
-  "DII": {
-   "futIdxLong": 39976,
-   "futIdxShort": 27774,
-   "callLong": 12644,
-   "callShort": 1722,
-   "putLong": 81486,
-   "putShort": 0
-  },
-  "FII": {
-   "futIdxLong": 40611,
-   "futIdxShort": 339224,
-   "callLong": 705480,
-   "callShort": 894277,
-   "putLong": 1132740,
-   "putShort": 580376
-  },
-  "Pro": {
-   "futIdxLong": 72732,
-   "futIdxShort": 26566,
-   "callLong": 899939,
-   "callShort": 910874,
-   "putLong": 938739,
-   "putShort": 881630
-  },
-  "Nifty": {
-   "open": 23352.15,
-   "high": 23466.9,
-   "low": 23349.55,
-   "close": 23446.8
-  },
-  "VIX": {
-   "close": 10.35
-  },
-  "Read": {
-   "mood": 49.7,
-   "pos": -0.322,
-   "px": 0.468,
-   "flow": null,
-   "flowPct": null,
-   "cashDays": 0,
-   "fiiCash": null,
-   "diiCash": null,
-   "fiiCash5": null,
-   "diiCash5": null,
-   "ranked": true,
-   "baseline": 250,
-   "fiiLongPct": 0.298,
-   "clientLongPct": 0.99,
-   "fiiOptPct": 0.454,
-   "pxDayPct": 0.758,
-   "fiiLong": 0.1069,
-   "clientLong": 0.8449,
-   "fiiOpt": -0.2237,
-   "fiiNetChg": 4295,
-   "oiChg": -0.0107,
-   "pxDay": 0.005,
-   "px5": 0.0099,
-   "pxAvg": 0.0044,
-   "move": "short-covering"
-  }
- },
  "2026-09-24": {
   "Client": {
    "futIdxLong": 310605,
@@ -2201,10 +2131,88 @@
    "move": "short-covering"
   }
  },
+ "2026-11-08": {
+  "Client": {
+   "futIdxLong": 180190,
+   "futIdxShort": 98421,
+   "callLong": 3454567,
+   "callShort": 3416737,
+   "putLong": 4318045,
+   "putShort": 4758779
+  },
+  "DII": {
+   "futIdxLong": 54004,
+   "futIdxShort": 18468,
+   "callLong": 10818,
+   "callShort": 553,
+   "putLong": 104950,
+   "putShort": 1003
+  },
+  "FII": {
+   "futIdxLong": 49050,
+   "futIdxShort": 150509,
+   "callLong": 915839,
+   "callShort": 1050492,
+   "putLong": 1355846,
+   "putShort": 919090
+  },
+  "Pro": {
+   "futIdxLong": 30094,
+   "futIdxShort": 45940,
+   "callLong": 1353759,
+   "callShort": 1267200,
+   "putLong": 1500647,
+   "putShort": 1600616
+  },
+  "Nifty": {
+   "open": 25070.45,
+   "high": 25131.85,
+   "low": 24985.3,
+   "close": 24986.4
+  },
+  "VIX": {
+   "close": 18.43
+  },
+  "Cash": {
+   "diiBuy": 331.11,
+   "diiSell": 1031.42,
+   "diiNet": -700.31,
+   "fiiBuy": 52.39,
+   "fiiSell": 52.64,
+   "fiiNet": -0.25
+  },
+  "Read": {
+   "mood": 82.3,
+   "pos": 0.732,
+   "px": 0.517,
+   "flow": null,
+   "flowPct": null,
+   "cashDays": 5,
+   "fiiCash": -0.25,
+   "diiCash": -700.31,
+   "fiiCash5": 42845.09,
+   "diiCash5": -24504.63,
+   "ranked": true,
+   "baseline": 250,
+   "fiiLongPct": 0.986,
+   "clientLongPct": 0.03,
+   "fiiOptPct": 0.806,
+   "pxDayPct": 0.414,
+   "fiiLong": 0.2458,
+   "clientLong": 0.6467,
+   "fiiOpt": -0.1347,
+   "fiiNetChg": -1043,
+   "oiChg": 0.001,
+   "pxDay": -0.0018,
+   "px5": 0.0659,
+   "pxAvg": 0.0534,
+   "move": "price-led"
+  }
+ },
  "_meta": {
-  "historySessions": 303,
+  "historySessions": 304,
   "historyFrom": "2025-08-14",
-  "cashSessions": 4,
+  "cashSessions": 5,
   "cashFrom": "2026-11-03"
  }
 }
