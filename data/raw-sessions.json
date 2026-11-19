@@ -1,1061 +1,4 @@
 {
- "2026-10-06": {
-  "Client": {
-   "futIdxLong": 297348,
-   "futIdxShort": 60248,
-   "callLong": 2247106,
-   "callShort": 2040599,
-   "putLong": 1916279,
-   "putShort": 2574036
-  },
-  "DII": {
-   "futIdxLong": 47973,
-   "futIdxShort": 14072,
-   "callLong": 30177,
-   "callShort": 2406,
-   "putLong": 54041,
-   "putShort": 500
-  },
-  "FII": {
-   "futIdxLong": 30285,
-   "futIdxShort": 324010,
-   "callLong": 393444,
-   "callShort": 740928,
-   "putLong": 926672,
-   "putShort": 358906
-  },
-  "Pro": {
-   "futIdxLong": 52602,
-   "futIdxShort": 29878,
-   "callLong": 847385,
-   "callShort": 734178,
-   "putLong": 713185,
-   "putShort": 676735
-  },
-  "Nifty": {
-   "open": 22603.25,
-   "high": 22776.1,
-   "low": 22561.6,
-   "close": 22776.1
-  },
-  "VIX": {
-   "close": 13.61
-  },
-  "BankNifty": {
-   "open": 54901.3,
-   "high": 55201.0,
-   "low": 54834.75,
-   "close": 55128.4
-  },
-  "Sensex": {
-   "open": 72508.05,
-   "high": 73067.81,
-   "low": 72384.83,
-   "close": 73067.81
-  },
-  "FIIIdx": {
-   "BankNifty": {
-    "fut": {
-     "buy": 3738,
-     "buyCr": 619.71,
-     "sell": 2784,
-     "sellCr": 461.67,
-     "oi": 56359,
-     "oiCr": 9342.98
-    },
-    "opt": {
-     "buy": 215012,
-     "buyCr": 35981.84,
-     "sell": 219667,
-     "sellCr": 36726.8,
-     "oi": 450259,
-     "oiCr": 74466.17
-    }
-   },
-   "Nifty": {
-    "fut": {
-     "buy": 13783,
-     "buyCr": 2040.32,
-     "sell": 6232,
-     "sellCr": 922.74,
-     "oi": 273875,
-     "oiCr": 40601.51
-    },
-    "opt": {
-     "buy": 13606923,
-     "buyCr": 2002419.02,
-     "sell": 13662567,
-     "sellCr": 2013675.31,
-     "oi": 1921384,
-     "oiCr": 284450.62
-    }
-   }
-  },
-  "Movers": {
-   "Nifty": {
-    "up": [
-     [
-      "TRENT",
-      12.64,
-      2906.0
-     ],
-     [
-      "BSE",
-      3.94,
-      3305.0
-     ],
-     [
-      "KOTAKBANK",
-      3.82,
-      431.9
-     ],
-     [
-      "NESTLEIND",
-      3.42,
-      1341.4
-     ],
-     [
-      "HINDUNILVR",
-      3.09,
-      1895.2
-     ]
-    ],
-    "down": [
-     [
-      "COALINDIA",
-      -3.16,
-      411.65
-     ],
-     [
-      "TECHM",
-      -2.04,
-      1504.5
-     ],
-     [
-      "MAXHEALTH",
-      -1.58,
-      902.5
-     ],
-     [
-      "TMPV",
-      -0.99,
-      285.8
-     ],
-     [
-      "ULTRACEMCO",
-      -0.92,
-      10750.0
-     ]
-    ],
-    "all": [
-     [
-      "BSE",
-      3.94,
-      3305.0,
-      2250.81,
-      "Financial Services",
-      46.67
-     ],
-     [
-      "RELIANCE",
-      2.66,
-      1218.0,
-      2181.2,
-      "Oil Gas & Consumable Fuels",
-      54.72
-     ],
-     [
-      "TRENT",
-      12.64,
-      2906.0,
-      1919.3,
-      "Consumer Services",
-      13.94
-     ],
-     [
-      "HDFCBANK",
-      0.94,
-      711.45,
-      1885.14,
-      "Financial Services",
-      50.94
-     ],
-     [
-      "KOTAKBANK",
-      3.82,
-      431.9,
-      1726.09,
-      "Financial Services",
-      63.72
-     ],
-     [
-      "ICICIBANK",
-      0.81,
-      1342.8,
-      1631.93,
-      "Financial Services",
-      57.31
-     ],
-     [
-      "AXISBANK",
-      2.11,
-      1248.0,
-      935.56,
-      "Financial Services",
-      54.56
-     ],
-     [
-      "BHARTIARTL",
-      1.72,
-      1810.5,
-      926.45,
-      "Telecommunication",
-      57.9
-     ],
-     [
-      "ETERNAL",
-      2.56,
-      329.0,
-      882.06,
-      "Consumer Services",
-      62.04
-     ],
-     [
-      "APOLLOHOSP",
-      -0.88,
-      7914.5,
-      845.58,
-      "Healthcare",
-      64.74
-     ],
-     [
-      "INFY",
-      -0.65,
-      1013.85,
-      832.5,
-      "Information Technology",
-      52.35
-     ],
-     [
-      "SBIN",
-      0.08,
-      958.75,
-      783.68,
-      "Financial Services",
-      49.61
-     ],
-     [
-      "LT",
-      0.53,
-      3770.0,
-      748.23,
-      "Construction",
-      61.92
-     ],
-     [
-      "M&M",
-      -0.09,
-      2855.0,
-      744.37,
-      "Automobile and Auto Components",
-      67.1
-     ],
-     [
-      "ITC",
-      -0.82,
-      266.7,
-      588.53,
-      "Fast Moving Consumer Goods",
-      57.07
-     ],
-     [
-      "TCS",
-      -0.68,
-      2100.0,
-      498.96,
-      "Information Technology",
-      50.88
-     ],
-     [
-      "HDFCLIFE",
-      2.44,
-      543.95,
-      453.73,
-      "Financial Services",
-      55.41
-     ],
-     [
-      "SHRIRAMFIN",
-      -0.65,
-      965.05,
-      428.83,
-      "Financial Services",
-      72.73
-     ],
-     [
-      "ONGC",
-      -0.31,
-      224.2,
-      426.81,
-      "Oil Gas & Consumable Fuels",
-      66.39
-     ],
-     [
-      "BAJFINANCE",
-      -0.71,
-      963.1,
-      422.15,
-      "Financial Services",
-      57.02
-     ],
-     [
-      "BEL",
-      0.66,
-      387.4,
-      387.26,
-      "Capital Goods",
-      60.11
-     ],
-     [
-      "TITAN",
-      -0.66,
-      4550.0,
-      364.34,
-      "Consumer Durables",
-      63.28
-     ],
-     [
-      "JIOFIN",
-      2.78,
-      217.9,
-      362.05,
-      "Financial Services",
-      38.12
-     ],
-     [
-      "TECHM",
-      -2.04,
-      1504.5,
-      359.2,
-      "Information Technology",
-      56.11
-     ],
-     [
-      "ADANIENT",
-      -0.49,
-      2849.9,
-      354.64,
-      "Metals & Mining",
-      49.03
-     ],
-     [
-      "TATASTEEL",
-      0.31,
-      178.69,
-      308.0,
-      "Metals & Mining",
-      43.98
-     ],
-     [
-      "INDIGO",
-      2.34,
-      5050.5,
-      307.25,
-      "Services",
-      55.23
-     ],
-     [
-      "MARUTI",
-      0.81,
-      11625.0,
-      304.82,
-      "Automobile and Auto Components",
-      48.14
-     ],
-     [
-      "ADANIPORTS",
-      0.53,
-      1783.4,
-      299.54,
-      "Services",
-      52.44
-     ],
-     [
-      "HINDUNILVR",
-      3.09,
-      1895.2,
-      295.85,
-      "Fast Moving Consumer Goods",
-      64.81
-     ],
-     [
-      "ULTRACEMCO",
-      -0.92,
-      10750.0,
-      291.84,
-      "Construction Materials",
-      63.78
-     ],
-     [
-      "HINDALCO",
-      0.22,
-      940.5,
-      281.1,
-      "Metals & Mining",
-      58.3
-     ],
-     [
-      "SUNPHARMA",
-      1.37,
-      1804.1,
-      264.29,
-      "Healthcare",
-      59.93
-     ],
-     [
-      "HCLTECH",
-      0.21,
-      1204.4,
-      239.49,
-      "Information Technology",
-      50.52
-     ],
-     [
-      "NTPC",
-      -0.11,
-      321.45,
-      235.82,
-      "Power",
-      61.09
-     ],
-     [
-      "COALINDIA",
-      -3.16,
-      411.65,
-      230.55,
-      "Oil Gas & Consumable Fuels",
-      52.14
-     ],
-     [
-      "TMPV",
-      -0.99,
-      285.8,
-      217.74,
-      "Automobile and Auto Components",
-      50.87
-     ],
-     [
-      "NESTLEIND",
-      3.42,
-      1341.4,
-      217.65,
-      "Fast Moving Consumer Goods",
-      51.49
-     ],
-     [
-      "MAXHEALTH",
-      -1.58,
-      902.5,
-      217.33,
-      "Healthcare",
-      49.73
-     ],
-     [
-      "DRREDDY",
-      0.42,
-      1208.0,
-      197.43,
-      "Healthcare",
-      51.36
-     ],
-     [
-      "JSWSTEEL",
-      1.97,
-      1259.6,
-      166.27,
-      "Metals & Mining",
-      53.5
-     ],
-     [
-      "EICHERMOT",
-      0.42,
-      7051.0,
-      164.23,
-      "Automobile and Auto Components",
-      53.04
-     ],
-     [
-      "SBILIFE",
-      2.37,
-      1750.0,
-      164.04,
-      "Financial Services",
-      65.93
-     ],
-     [
-      "BAJAJ-AUTO",
-      -0.07,
-      10017.0,
-      159.18,
-      "Automobile and Auto Components",
-      53.96
-     ],
-     [
-      "POWERGRID",
-      0.08,
-      257.2,
-      123.72,
-      "Power",
-      62.57
-     ],
-     [
-      "GRASIM",
-      -0.1,
-      2969.0,
-      106.44,
-      "Construction Materials",
-      53.89
-     ],
-     [
-      "ASIANPAINT",
-      2.46,
-      2424.2,
-      105.08,
-      "Consumer Durables",
-      57.61
-     ],
-     [
-      "BAJAJFINSV",
-      0.06,
-      1752.4,
-      96.4,
-      "Financial Services",
-      56.94
-     ],
-     [
-      "TATACONSUM",
-      2.33,
-      976.0,
-      86.87,
-      "Fast Moving Consumer Goods",
-      60.02
-     ],
-     [
-      "CIPLA",
-      0.35,
-      1340.2,
-      76.9,
-      "Healthcare",
-      57.87
-     ]
-    ],
-    "adv": 32,
-    "dec": 18,
-    "n": 50
-   },
-   "BankNifty": {
-    "up": [
-     [
-      "KOTAKBANK",
-      3.82,
-      431.9
-     ],
-     [
-      "INDUSINDBK",
-      2.2,
-      906.1
-     ],
-     [
-      "AXISBANK",
-      2.11,
-      1248.0
-     ],
-     [
-      "HDFCBANK",
-      0.94,
-      711.45
-     ],
-     [
-      "ICICIBANK",
-      0.81,
-      1342.8
-     ]
-    ],
-    "down": [
-     [
-      "FEDERALBNK",
-      -2.25,
-      320.0
-     ],
-     [
-      "YESBANK",
-      -0.95,
-      20.86
-     ],
-     [
-      "IDFCFIRSTB",
-      -0.8,
-      81.56
-     ],
-     [
-      "CANBK",
-      -0.57,
-      117.82
-     ],
-     [
-      "PNB",
-      -0.38,
-      111.92
-     ]
-    ],
-    "all": [
-     [
-      "HDFCBANK",
-      0.94,
-      711.45,
-      1885.14,
-      "Financial Services",
-      50.94
-     ],
-     [
-      "KOTAKBANK",
-      3.82,
-      431.9,
-      1726.09,
-      "Financial Services",
-      63.72
-     ],
-     [
-      "ICICIBANK",
-      0.81,
-      1342.8,
-      1631.93,
-      "Financial Services",
-      57.31
-     ],
-     [
-      "AXISBANK",
-      2.11,
-      1248.0,
-      935.56,
-      "Financial Services",
-      54.56
-     ],
-     [
-      "SBIN",
-      0.08,
-      958.75,
-      783.68,
-      "Financial Services",
-      49.61
-     ],
-     [
-      "IDFCFIRSTB",
-      -0.8,
-      81.56,
-      234.73,
-      "Financial Services",
-      44.69
-     ],
-     [
-      "INDUSINDBK",
-      2.2,
-      906.1,
-      216.76,
-      "Financial Services",
-      57.37
-     ],
-     [
-      "UNIONBANK",
-      0.28,
-      168.44,
-      174.6,
-      "Financial Services",
-      56.74
-     ],
-     [
-      "FEDERALBNK",
-      -2.25,
-      320.0,
-      139.92,
-      "Financial Services",
-      57.86
-     ],
-     [
-      "BANKBARODA",
-      -0.03,
-      232.73,
-      123.96,
-      "Financial Services",
-      59.15
-     ],
-     [
-      "CANBK",
-      -0.57,
-      117.82,
-      122.09,
-      "Financial Services",
-      53.06
-     ],
-     [
-      "AUBANK",
-      -0.12,
-      1028.0,
-      121.32,
-      "Financial Services",
-      43.01
-     ],
-     [
-      "YESBANK",
-      -0.95,
-      20.86,
-      102.21,
-      "Financial Services",
-      56.14
-     ],
-     [
-      "PNB",
-      -0.38,
-      111.92,
-      94.26,
-      "Financial Services",
-      53.97
-     ]
-    ],
-    "adv": 7,
-    "dec": 7,
-    "n": 14
-   },
-   "Sensex": {
-    "up": [
-     [
-      "TRENT",
-      12.64,
-      2906.0
-     ],
-     [
-      "KOTAKBANK",
-      3.82,
-      431.9
-     ],
-     [
-      "HINDUNILVR",
-      3.09,
-      1895.2
-     ],
-     [
-      "RELIANCE",
-      2.66,
-      1218.0
-     ],
-     [
-      "ETERNAL",
-      2.56,
-      329.0
-     ]
-    ],
-    "down": [
-     [
-      "TECHM",
-      -2.04,
-      1504.5
-     ],
-     [
-      "ULTRACEMCO",
-      -0.92,
-      10750.0
-     ],
-     [
-      "ITC",
-      -0.82,
-      266.7
-     ],
-     [
-      "BAJFINANCE",
-      -0.71,
-      963.1
-     ],
-     [
-      "TCS",
-      -0.68,
-      2100.0
-     ]
-    ],
-    "all": [
-     [
-      "RELIANCE",
-      2.66,
-      1218.0,
-      2181.2,
-      "Oil Gas & Consumable Fuels",
-      54.72
-     ],
-     [
-      "TRENT",
-      12.64,
-      2906.0,
-      1919.3,
-      "Consumer Services",
-      13.94
-     ],
-     [
-      "HDFCBANK",
-      0.94,
-      711.45,
-      1885.14,
-      "Financial Services",
-      50.94
-     ],
-     [
-      "KOTAKBANK",
-      3.82,
-      431.9,
-      1726.09,
-      "Financial Services",
-      63.72
-     ],
-     [
-      "ICICIBANK",
-      0.81,
-      1342.8,
-      1631.93,
-      "Financial Services",
-      57.31
-     ],
-     [
-      "AXISBANK",
-      2.11,
-      1248.0,
-      935.56,
-      "Financial Services",
-      54.56
-     ],
-     [
-      "BHARTIARTL",
-      1.72,
-      1810.5,
-      926.45,
-      "Telecommunication",
-      57.9
-     ],
-     [
-      "ETERNAL",
-      2.56,
-      329.0,
-      882.06,
-      "Consumer Services",
-      62.04
-     ],
-     [
-      "INFY",
-      -0.65,
-      1013.85,
-      832.5,
-      "Information Technology",
-      52.35
-     ],
-     [
-      "SBIN",
-      0.08,
-      958.75,
-      783.68,
-      "Financial Services",
-      49.61
-     ],
-     [
-      "LT",
-      0.53,
-      3770.0,
-      748.23,
-      "Construction",
-      61.92
-     ],
-     [
-      "M&M",
-      -0.09,
-      2855.0,
-      744.37,
-      "Automobile and Auto Components",
-      67.1
-     ],
-     [
-      "ITC",
-      -0.82,
-      266.7,
-      588.53,
-      "Fast Moving Consumer Goods",
-      57.07
-     ],
-     [
-      "TCS",
-      -0.68,
-      2100.0,
-      498.96,
-      "Information Technology",
-      50.88
-     ],
-     [
-      "BAJFINANCE",
-      -0.71,
-      963.1,
-      422.15,
-      "Financial Services",
-      57.02
-     ],
-     [
-      "BEL",
-      0.66,
-      387.4,
-      387.26,
-      "Capital Goods",
-      60.11
-     ],
-     [
-      "TITAN",
-      -0.66,
-      4550.0,
-      364.34,
-      "Consumer Durables",
-      63.28
-     ],
-     [
-      "TECHM",
-      -2.04,
-      1504.5,
-      359.2,
-      "Information Technology",
-      56.11
-     ],
-     [
-      "TATASTEEL",
-      0.31,
-      178.69,
-      308.0,
-      "Metals & Mining",
-      43.98
-     ],
-     [
-      "INDIGO",
-      2.34,
-      5050.5,
-      307.25,
-      "Services",
-      55.23
-     ],
-     [
-      "MARUTI",
-      0.81,
-      11625.0,
-      304.82,
-      "Automobile and Auto Components",
-      48.14
-     ],
-     [
-      "ADANIPORTS",
-      0.53,
-      1783.4,
-      299.54,
-      "Services",
-      52.44
-     ],
-     [
-      "HINDUNILVR",
-      3.09,
-      1895.2,
-      295.85,
-      "Fast Moving Consumer Goods",
-      64.81
-     ],
-     [
-      "ULTRACEMCO",
-      -0.92,
-      10750.0,
-      291.84,
-      "Construction Materials",
-      63.78
-     ],
-     [
-      "SUNPHARMA",
-      1.37,
-      1804.1,
-      264.29,
-      "Healthcare",
-      59.93
-     ],
-     [
-      "HCLTECH",
-      0.21,
-      1204.4,
-      239.49,
-      "Information Technology",
-      50.52
-     ],
-     [
-      "NTPC",
-      -0.11,
-      321.45,
-      235.82,
-      "Power",
-      61.09
-     ],
-     [
-      "POWERGRID",
-      0.08,
-      257.2,
-      123.72,
-      "Power",
-      62.57
-     ],
-     [
-      "ASIANPAINT",
-      2.46,
-      2424.2,
-      105.08,
-      "Consumer Durables",
-      57.61
-     ],
-     [
-      "BAJAJFINSV",
-      0.06,
-      1752.4,
-      96.4,
-      "Financial Services",
-      56.94
-     ]
-    ],
-    "adv": 21,
-    "dec": 9,
-    "n": 30
-   }
-  },
-  "Read": {
-   "mood": 37.3,
-   "pos": -0.634,
-   "px": 0.314,
-   "flow": null,
-   "flowPct": null,
-   "cashDays": 0,
-   "fiiCash": null,
-   "diiCash": null,
-   "fiiCash5": null,
-   "diiCash5": null,
-   "ranked": true,
-   "baseline": 250,
-   "fiiLongPct": 0.11,
-   "clientLongPct": 0.93,
-   "fiiOptPct": 0.026,
-   "pxDayPct": 0.914,
-   "fiiLong": 0.0855,
-   "clientLong": 0.8315,
-   "fiiOpt": -0.3782,
-   "fiiNetChg": 8666,
-   "oiChg": -0.0111,
-   "pxDay": 0.0098,
-   "px5": -0.0002,
-   "pxAvg": -0.0048,
-   "move": "short-covering"
-  }
- },
  "2026-10-07": {
   "Client": {
    "futIdxLong": 303069,
@@ -32454,10 +31397,1049 @@
    "move": "short-buildup"
   }
  },
+ "2026-11-19": {
+  "Client": {
+   "futIdxLong": 164593,
+   "futIdxShort": 113569,
+   "callLong": 2931072,
+   "callShort": 2961230,
+   "putLong": 3757162,
+   "putShort": 4086239
+  },
+  "DII": {
+   "futIdxLong": 52737,
+   "futIdxShort": 29971,
+   "callLong": 5514,
+   "callShort": 1200,
+   "putLong": 104179,
+   "putShort": 200
+  },
+  "FII": {
+   "futIdxLong": 73516,
+   "futIdxShort": 141763,
+   "callLong": 765216,
+   "callShort": 865157,
+   "putLong": 1220608,
+   "putShort": 888232
+  },
+  "Pro": {
+   "futIdxLong": 38087,
+   "futIdxShort": 43630,
+   "callLong": 1066754,
+   "callShort": 940970,
+   "putLong": 1233815,
+   "putShort": 1341094
+  },
+  "Nifty": {
+   "open": 25186.8,
+   "high": 25514.3,
+   "low": 25104.8,
+   "close": 25514.3
+  },
+  "BankNifty": {
+   "open": 62081.3,
+   "high": 63063.0,
+   "low": 61951.1,
+   "close": 63063.0
+  },
+  "VIX": {
+   "close": 16.11
+  },
+  "Sensex": {
+   "open": 82074.16,
+   "high": 83043.87,
+   "low": 81698.63,
+   "close": 83021.75
+  },
+  "FIIIdx": {
+   "BankNifty": {
+    "fut": {
+     "buy": 27527,
+     "buyCr": 5184.37,
+     "sell": 22453,
+     "sellCr": 4230.71,
+     "oi": 55099,
+     "oiCr": 10459.05
+    },
+    "opt": {
+     "buy": 578652,
+     "buyCr": 108766.39,
+     "sell": 581025,
+     "sellCr": 109216.16,
+     "oi": 780717,
+     "oiCr": 147703.07
+    }
+   },
+   "Nifty": {
+    "fut": {
+     "buy": 16099,
+     "buyCr": 2659.98,
+     "sell": 18529,
+     "sellCr": 3068.19,
+     "oi": 134936,
+     "oiCr": 22445.7
+    },
+    "opt": {
+     "buy": 5666961,
+     "buyCr": 929620.81,
+     "sell": 5610911,
+     "sellCr": 921400.05,
+     "oi": 2867280,
+     "oiCr": 475518.24
+    }
+   }
+  },
+  "Movers": {
+   "Nifty": {
+    "up": [
+     [
+      "MARUTI",
+      7.58,
+      13589.0
+     ],
+     [
+      "EICHERMOT",
+      4.66,
+      8058.5
+     ],
+     [
+      "M&M",
+      4.46,
+      3509.0
+     ],
+     [
+      "TMPV",
+      4.34,
+      263.5
+     ],
+     [
+      "HINDUNILVR",
+      4.07,
+      2074.2
+     ]
+    ],
+    "down": [
+     [
+      "TCS",
+      -1.55,
+      2342.7
+     ],
+     [
+      "TECHM",
+      -1.54,
+      1723.0
+     ],
+     [
+      "INFY",
+      -1.52,
+      1091.9
+     ],
+     [
+      "APOLLOHOSP",
+      -0.94,
+      8738.0
+     ],
+     [
+      "HCLTECH",
+      -0.88,
+      1332.9
+     ]
+    ],
+    "all": [
+     [
+      "SBIN",
+      1.85,
+      1156.0,
+      3044.89,
+      "Financial Services",
+      59.83
+     ],
+     [
+      "RELIANCE",
+      0.92,
+      1375.6,
+      1981.98,
+      "Oil Gas & Consumable Fuels",
+      55.15
+     ],
+     [
+      "HDFCBANK",
+      1.69,
+      821.8,
+      1962.68,
+      "Financial Services",
+      61.38
+     ],
+     [
+      "MARUTI",
+      7.58,
+      13589.0,
+      1832.59,
+      "Automobile and Auto Components",
+      37.15
+     ],
+     [
+      "ICICIBANK",
+      0.47,
+      1608.9,
+      1794.15,
+      "Financial Services",
+      69.26
+     ],
+     [
+      "M&M",
+      4.46,
+      3509.0,
+      1675.98,
+      "Automobile and Auto Components",
+      55.21
+     ],
+     [
+      "BHARTIARTL",
+      0.56,
+      2144.0,
+      1291.43,
+      "Telecommunication",
+      67.2
+     ],
+     [
+      "INFY",
+      -1.52,
+      1091.9,
+      1225.2,
+      "Information Technology",
+      41.35
+     ],
+     [
+      "AXISBANK",
+      1.53,
+      1380.8,
+      1143.18,
+      "Financial Services",
+      62.26
+     ],
+     [
+      "ETERNAL",
+      0.23,
+      366.85,
+      1132.2,
+      "Consumer Services",
+      57.95
+     ],
+     [
+      "HINDALCO",
+      1.11,
+      910.0,
+      928.81,
+      "Metals & Mining",
+      56.61
+     ],
+     [
+      "BSE",
+      0.25,
+      3765.0,
+      923.06,
+      "Financial Services",
+      34.09
+     ],
+     [
+      "INDIGO",
+      -0.44,
+      5475.0,
+      916.84,
+      "Services",
+      65.99
+     ],
+     [
+      "LT",
+      1.25,
+      4211.0,
+      865.07,
+      "Construction",
+      67.7
+     ],
+     [
+      "BAJFINANCE",
+      -0.09,
+      1092.85,
+      848.78,
+      "Financial Services",
+      68.86
+     ],
+     [
+      "ITC",
+      1.48,
+      301.0,
+      794.71,
+      "Fast Moving Consumer Goods",
+      56.64
+     ],
+     [
+      "EICHERMOT",
+      4.66,
+      8058.5,
+      704.59,
+      "Automobile and Auto Components",
+      40.41
+     ],
+     [
+      "KOTAKBANK",
+      1.65,
+      503.0,
+      675.07,
+      "Financial Services",
+      64.16
+     ],
+     [
+      "TCS",
+      -1.55,
+      2342.7,
+      579.59,
+      "Information Technology",
+      41.96
+     ],
+     [
+      "HINDUNILVR",
+      4.07,
+      2074.2,
+      579.2,
+      "Fast Moving Consumer Goods",
+      57.53
+     ],
+     [
+      "TMPV",
+      4.34,
+      263.5,
+      575.7,
+      "Automobile and Auto Components",
+      41.87
+     ],
+     [
+      "TITAN",
+      1.12,
+      4700.0,
+      531.6,
+      "Consumer Durables",
+      42.57
+     ],
+     [
+      "SHRIRAMFIN",
+      0.34,
+      973.3,
+      518.45,
+      "Financial Services",
+      58.49
+     ],
+     [
+      "HCLTECH",
+      -0.88,
+      1332.9,
+      463.25,
+      "Information Technology",
+      55.83
+     ],
+     [
+      "BAJAJ-AUTO",
+      2.34,
+      10817.0,
+      406.27,
+      "Automobile and Auto Components",
+      46.31
+     ],
+     [
+      "SUNPHARMA",
+      1.52,
+      1900.0,
+      378.85,
+      "Healthcare",
+      53.02
+     ],
+     [
+      "BEL",
+      2.12,
+      404.2,
+      342.84,
+      "Capital Goods",
+      51.96
+     ],
+     [
+      "TECHM",
+      -1.54,
+      1723.0,
+      311.86,
+      "Information Technology",
+      52.62
+     ],
+     [
+      "ADANIPORTS",
+      0.76,
+      1917.1,
+      291.03,
+      "Services",
+      59.8
+     ],
+     [
+      "CIPLA",
+      0.11,
+      1418.5,
+      282.93,
+      "Healthcare",
+      55.58
+     ],
+     [
+      "COALINDIA",
+      0.9,
+      391.5,
+      282.23,
+      "Oil Gas & Consumable Fuels",
+      61.36
+     ],
+     [
+      "MAXHEALTH",
+      1.74,
+      1040.65,
+      281.49,
+      "Healthcare",
+      64.27
+     ],
+     [
+      "APOLLOHOSP",
+      -0.94,
+      8738.0,
+      277.26,
+      "Healthcare",
+      52.35
+     ],
+     [
+      "NTPC",
+      1.44,
+      325.0,
+      261.58,
+      "Power",
+      63.09
+     ],
+     [
+      "ULTRACEMCO",
+      1.06,
+      12560.0,
+      256.4,
+      "Construction Materials",
+      52.3
+     ],
+     [
+      "JSWSTEEL",
+      1.59,
+      1336.8,
+      256.08,
+      "Metals & Mining",
+      65.24
+     ],
+     [
+      "BAJAJFINSV",
+      1.55,
+      1885.0,
+      252.37,
+      "Financial Services",
+      62.97
+     ],
+     [
+      "TRENT",
+      1.1,
+      3225.0,
+      242.49,
+      "Consumer Services",
+      51.04
+     ],
+     [
+      "TATASTEEL",
+      1.06,
+      180.89,
+      241.07,
+      "Metals & Mining",
+      43.68
+     ],
+     [
+      "JIOFIN",
+      1.02,
+      226.8,
+      227.49,
+      "Financial Services",
+      49.68
+     ],
+     [
+      "ASIANPAINT",
+      0.57,
+      2595.0,
+      221.0,
+      "Consumer Durables",
+      55.66
+     ],
+     [
+      "GRASIM",
+      1.6,
+      3111.1,
+      215.88,
+      "Construction Materials",
+      53.69
+     ],
+     [
+      "HDFCLIFE",
+      0.27,
+      577.05,
+      203.56,
+      "Financial Services",
+      64.77
+     ],
+     [
+      "DRREDDY",
+      0.19,
+      1400.9,
+      201.66,
+      "Healthcare",
+      56.85
+     ],
+     [
+      "POWERGRID",
+      2.08,
+      264.5,
+      199.16,
+      "Power",
+      65.49
+     ],
+     [
+      "ADANIENT",
+      0.7,
+      2703.1,
+      188.97,
+      "Metals & Mining",
+      30.95
+     ],
+     [
+      "NESTLEIND",
+      1.7,
+      1303.4,
+      170.22,
+      "Fast Moving Consumer Goods",
+      50.67
+     ],
+     [
+      "ONGC",
+      -0.21,
+      224.52,
+      142.57,
+      "Oil Gas & Consumable Fuels",
+      59.58
+     ],
+     [
+      "TATACONSUM",
+      1.16,
+      1144.0,
+      141.98,
+      "Fast Moving Consumer Goods",
+      58.64
+     ],
+     [
+      "SBILIFE",
+      0.93,
+      1804.6,
+      114.32,
+      "Financial Services",
+      57.61
+     ]
+    ],
+    "adv": 42,
+    "dec": 8,
+    "n": 50
+   },
+   "BankNifty": {
+    "up": [
+     [
+      "IDFCFIRSTB",
+      4.37,
+      86.05
+     ],
+     [
+      "BANKBARODA",
+      4.15,
+      285.9
+     ],
+     [
+      "PNB",
+      3.53,
+      154.85
+     ],
+     [
+      "CANBK",
+      1.97,
+      136.03
+     ],
+     [
+      "SBIN",
+      1.85,
+      1156.0
+     ]
+    ],
+    "down": [],
+    "all": [
+     [
+      "SBIN",
+      1.85,
+      1156.0,
+      3044.89,
+      "Financial Services",
+      59.83
+     ],
+     [
+      "HDFCBANK",
+      1.69,
+      821.8,
+      1962.68,
+      "Financial Services",
+      61.38
+     ],
+     [
+      "ICICIBANK",
+      0.47,
+      1608.9,
+      1794.15,
+      "Financial Services",
+      69.26
+     ],
+     [
+      "AXISBANK",
+      1.53,
+      1380.8,
+      1143.18,
+      "Financial Services",
+      62.26
+     ],
+     [
+      "PNB",
+      3.53,
+      154.85,
+      1132.97,
+      "Financial Services",
+      42.85
+     ],
+     [
+      "BANKBARODA",
+      4.15,
+      285.9,
+      703.76,
+      "Financial Services",
+      51.73
+     ],
+     [
+      "KOTAKBANK",
+      1.65,
+      503.0,
+      675.07,
+      "Financial Services",
+      64.16
+     ],
+     [
+      "IDFCFIRSTB",
+      4.37,
+      86.05,
+      409.58,
+      "Financial Services",
+      47.3
+     ],
+     [
+      "INDUSINDBK",
+      1.29,
+      923.65,
+      385.92,
+      "Financial Services",
+      60.78
+     ],
+     [
+      "CANBK",
+      1.97,
+      136.03,
+      385.24,
+      "Financial Services",
+      44.4
+     ],
+     [
+      "UNIONBANK",
+      1.02,
+      210.0,
+      249.98,
+      "Financial Services",
+      41.87
+     ],
+     [
+      "YESBANK",
+      0.9,
+      17.84,
+      183.04,
+      "Financial Services",
+      42.63
+     ],
+     [
+      "FEDERALBNK",
+      1.15,
+      364.5,
+      119.58,
+      "Financial Services",
+      48.95
+     ],
+     [
+      "AUBANK",
+      0.71,
+      983.9,
+      84.85,
+      "Financial Services",
+      42.75
+     ]
+    ],
+    "adv": 14,
+    "dec": 0,
+    "n": 14
+   },
+   "Sensex": {
+    "up": [
+     [
+      "MARUTI",
+      7.58,
+      13589.0
+     ],
+     [
+      "M&M",
+      4.46,
+      3509.0
+     ],
+     [
+      "HINDUNILVR",
+      4.07,
+      2074.2
+     ],
+     [
+      "BEL",
+      2.12,
+      404.2
+     ],
+     [
+      "POWERGRID",
+      2.08,
+      264.5
+     ]
+    ],
+    "down": [
+     [
+      "TCS",
+      -1.55,
+      2342.7
+     ],
+     [
+      "TECHM",
+      -1.54,
+      1723.0
+     ],
+     [
+      "INFY",
+      -1.52,
+      1091.9
+     ],
+     [
+      "HCLTECH",
+      -0.88,
+      1332.9
+     ],
+     [
+      "INDIGO",
+      -0.44,
+      5475.0
+     ]
+    ],
+    "all": [
+     [
+      "SBIN",
+      1.85,
+      1156.0,
+      3044.89,
+      "Financial Services",
+      59.83
+     ],
+     [
+      "RELIANCE",
+      0.92,
+      1375.6,
+      1981.98,
+      "Oil Gas & Consumable Fuels",
+      55.15
+     ],
+     [
+      "HDFCBANK",
+      1.69,
+      821.8,
+      1962.68,
+      "Financial Services",
+      61.38
+     ],
+     [
+      "MARUTI",
+      7.58,
+      13589.0,
+      1832.59,
+      "Automobile and Auto Components",
+      37.15
+     ],
+     [
+      "ICICIBANK",
+      0.47,
+      1608.9,
+      1794.15,
+      "Financial Services",
+      69.26
+     ],
+     [
+      "M&M",
+      4.46,
+      3509.0,
+      1675.98,
+      "Automobile and Auto Components",
+      55.21
+     ],
+     [
+      "BHARTIARTL",
+      0.56,
+      2144.0,
+      1291.43,
+      "Telecommunication",
+      67.2
+     ],
+     [
+      "INFY",
+      -1.52,
+      1091.9,
+      1225.2,
+      "Information Technology",
+      41.35
+     ],
+     [
+      "AXISBANK",
+      1.53,
+      1380.8,
+      1143.18,
+      "Financial Services",
+      62.26
+     ],
+     [
+      "ETERNAL",
+      0.23,
+      366.85,
+      1132.2,
+      "Consumer Services",
+      57.95
+     ],
+     [
+      "INDIGO",
+      -0.44,
+      5475.0,
+      916.84,
+      "Services",
+      65.99
+     ],
+     [
+      "LT",
+      1.25,
+      4211.0,
+      865.07,
+      "Construction",
+      67.7
+     ],
+     [
+      "BAJFINANCE",
+      -0.09,
+      1092.85,
+      848.78,
+      "Financial Services",
+      68.86
+     ],
+     [
+      "ITC",
+      1.48,
+      301.0,
+      794.71,
+      "Fast Moving Consumer Goods",
+      56.64
+     ],
+     [
+      "KOTAKBANK",
+      1.65,
+      503.0,
+      675.07,
+      "Financial Services",
+      64.16
+     ],
+     [
+      "TCS",
+      -1.55,
+      2342.7,
+      579.59,
+      "Information Technology",
+      41.96
+     ],
+     [
+      "HINDUNILVR",
+      4.07,
+      2074.2,
+      579.2,
+      "Fast Moving Consumer Goods",
+      57.53
+     ],
+     [
+      "TITAN",
+      1.12,
+      4700.0,
+      531.6,
+      "Consumer Durables",
+      42.57
+     ],
+     [
+      "HCLTECH",
+      -0.88,
+      1332.9,
+      463.25,
+      "Information Technology",
+      55.83
+     ],
+     [
+      "SUNPHARMA",
+      1.52,
+      1900.0,
+      378.85,
+      "Healthcare",
+      53.02
+     ],
+     [
+      "BEL",
+      2.12,
+      404.2,
+      342.84,
+      "Capital Goods",
+      51.96
+     ],
+     [
+      "TECHM",
+      -1.54,
+      1723.0,
+      311.86,
+      "Information Technology",
+      52.62
+     ],
+     [
+      "ADANIPORTS",
+      0.76,
+      1917.1,
+      291.03,
+      "Services",
+      59.8
+     ],
+     [
+      "NTPC",
+      1.44,
+      325.0,
+      261.58,
+      "Power",
+      63.09
+     ],
+     [
+      "ULTRACEMCO",
+      1.06,
+      12560.0,
+      256.4,
+      "Construction Materials",
+      52.3
+     ],
+     [
+      "BAJAJFINSV",
+      1.55,
+      1885.0,
+      252.37,
+      "Financial Services",
+      62.97
+     ],
+     [
+      "TRENT",
+      1.1,
+      3225.0,
+      242.49,
+      "Consumer Services",
+      51.04
+     ],
+     [
+      "TATASTEEL",
+      1.06,
+      180.89,
+      241.07,
+      "Metals & Mining",
+      43.68
+     ],
+     [
+      "ASIANPAINT",
+      0.57,
+      2595.0,
+      221.0,
+      "Consumer Durables",
+      55.66
+     ],
+     [
+      "POWERGRID",
+      2.08,
+      264.5,
+      199.16,
+      "Power",
+      65.49
+     ]
+    ],
+    "adv": 24,
+    "dec": 6,
+    "n": 30
+   }
+  },
+  "Cash": {
+   "diiBuy": 17651.5,
+   "diiSell": 19008.07,
+   "diiNet": -1356.57,
+   "fiiBuy": 20706.95,
+   "fiiSell": 13295.54,
+   "fiiNet": 7411.41
+  },
+  "Read": {
+   "mood": 88.1,
+   "pos": 0.828,
+   "px": 0.665,
+   "flow": null,
+   "flowPct": null,
+   "cashDays": 13,
+   "fiiCash": 7411.41,
+   "diiCash": -1356.57,
+   "fiiCash5": 28074.8,
+   "diiCash5": -10092.17,
+   "ranked": true,
+   "baseline": 250,
+   "fiiLongPct": 0.99,
+   "clientLongPct": 0.002,
+   "fiiOptPct": 0.87,
+   "pxDayPct": 0.914,
+   "fiiLong": 0.3415,
+   "clientLong": 0.5917,
+   "fiiOpt": -0.1156,
+   "fiiNetChg": 2423,
+   "oiChg": 0.0209,
+   "pxDay": 0.0114,
+   "px5": 0.0085,
+   "pxAvg": 0.0117,
+   "move": "long-buildup"
+  }
+ },
  "_meta": {
-  "historySessions": 311,
+  "historySessions": 312,
   "historyFrom": "2025-08-14",
-  "cashSessions": 12,
+  "cashSessions": 13,
   "cashFrom": "2026-11-03"
  }
 }
